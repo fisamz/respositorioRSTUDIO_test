@@ -13,3 +13,5 @@ x
 print("hola mundo git")
 
 #getwd()
+
+jj = rnorm(20)
