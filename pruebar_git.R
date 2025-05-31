@@ -12,3 +12,4 @@ x
   
 print("hola mundo git")
 
+#getwd()
