@@ -4,7 +4,7 @@ El objetivo de este repositorio es realizar pruebas referentes a las capcidades 
 
 Si deseas ver el dash publicado, te recomiendo ir a https://fisamz.shinyapps.io/testshiny/
 
-- [archivo R](pruebar_git.r)
-- [archivo RMD](pruebarmd.rmd)
+- [archivo R](pruebar_git.R)
+- [archivo RMD](pruebarmd.Rmd)
 - [archivo MD](pruebarmd.md)
 - [APP](https://fisamz.shinyapps.io/testshiny/)
