@@ -1,0 +1,12 @@
+name: testshiny
+title: testshiny
+username: fisamz
+account: fisamz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14856725
+bundleId: 10372130
+url: https://fisamz.shinyapps.io/testshiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

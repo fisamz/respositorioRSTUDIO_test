@@ -1,0 +1,10 @@
+name: pruebar_git
+title:
+username: fisamz
+account: fisamz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14856723
+bundleId: 10372125
+url: https://fisamz.shinyapps.io/pruebar_git/
+version: 1
